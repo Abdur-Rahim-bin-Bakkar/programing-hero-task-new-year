@@ -1,0 +1,10 @@
+header{
+    background-image:url(../images/banner/banner2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 808px;
+    padding-top: 216px;
+    padding-left: 845px;
+    position: relative;
+}
